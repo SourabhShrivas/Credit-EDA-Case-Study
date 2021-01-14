@@ -77,9 +77,6 @@ The data is about whether a client has payment difficulties.
 Problem Statement - II
  
 
-Results Expected by Learners
-Present the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.
-
 Identify the missing data and use appropriate method to deal with it. (Remove columns/or replace it with an appropriate value)
 
 Hint: Note that in EDA, since it is not necessary to replace the missing value, but if you have to replace the missing value, what should be the approach. Clearly mention the approach.
